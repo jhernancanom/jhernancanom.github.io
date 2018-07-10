@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jul 2018 23:25:09 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Luadaterelease1</title>
+      <link>/post/luadaterelease1.0/</link>
+      <pubDate>Mon, 09 Jul 2018 23:25:09 -0500</pubDate>
+      
+      <guid>/post/luadaterelease1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release1</title>
+      <link>/post/release1.0/</link>
+      <pubDate>Mon, 09 Jul 2018 23:25:02 -0500</pubDate>
+      
+      <guid>/post/release1.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Free Pro</title>
+      <link>/post/vfp1.0/</link>
+      <pubDate>Thu, 09 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/post/vfp1.0/</guid>
+      <description>Información general Desarrollador(es) Microsoft Autor(es) Microsoft Corporation Lanzamiento inicial 21 de junio de 1995(info) Última versión estable Visual FoxPro 9.0 Service Pack 2 (SP2) (info) 11 de octubre de 2007 (10 años, 8 meses y 23 días) Género Lenguaje de programación de base de datos Sistema operativo Microsoft Windows Plataforma x86 y superior
+PowerPC (VFP 3.0 para Mac) Licencia Microsoft EULA
+Visual FoxPro.
+Estado actual Sin soporte Idiomas IDE: Inglés, Alemán, Español Runtime: Adicionalmente a los ya mencionados, Francés, Chino, Ruso, Checo, Coreano En español Sí [editar datos en Wikidata] Visual FoxPro es un lenguaje de programación por procedimientos, orientado a objetos que posee un Sistema Gestor de Bases de datos o Database Management System (DBMS) y Sistema administrador de bases de datos relacionales, producido por Microsoft.</description>
+    </item>
+    
+  </channel>
+</rss>
